@@ -1,0 +1,21 @@
+{
+  "name": "js-snippets",
+  "version": "1.0.0",
+  "description": "A few reusable vanilla JS classes.",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "build": "node bundler.js"
+  },
+  "author": "Dan Groleau",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-jest": "^27.3.1",
+    "babel-loader": "^8.2.3",
+    "jest": "^27.3.1",
+    "jest-teamcity": "^1.10.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}

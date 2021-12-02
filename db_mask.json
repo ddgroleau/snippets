@@ -1,0 +1,53 @@
+{
+    "local": {
+      "pattern": "localhost",
+      "db_name": "database",
+      "db_user": "dbuser",
+      "db_pass": "dbpass",
+      "db_host": "dbhost",
+      "domain": "http://localhost:4000",
+      "wp_home": "http://localhost:4000",
+      "api": "https://apidev.com/api/endpoint"
+    },
+    "dev": {
+      "pattern": "dev.com",
+      "db_name": "database",
+      "db_user": "dbuser",
+      "db_pass": "dbpass",
+      "db_host": "dbhost",
+      "domain": "http://dev.com",
+      "wp_home": "http://dev.com",
+      "api": "https://apidev.com/api/endpoint"
+    },
+    "qa": {
+      "pattern": "qa.com",
+      "db_name": "database",
+      "db_user": "dbuser",
+      "db_pass": "dbpass",
+      "db_host": "dbhost",
+      "domain": "http://qa.com",
+      "wp_home": "http://qa.com",
+      "api": "https://apiqa.com/api/endpoint"
+    },
+    "uat": {
+      "pattern": "uat.com",
+      "db_name": "database",
+      "db_user": "dbuser",
+      "db_pass": "dbpass",
+      "db_host": "dbhost",
+      "domain": "http://uat.com",
+      "wp_home": "http://uat.com",
+      "api": "https://apiuat.com/api/endpoint"
+    },
+    "prod": {
+      "pattern": "prod.com",
+      "db_name": "database",
+      "db_user": "dbuser",
+      "db_pass": "dbpass",
+      "db_host": "dbhost",
+      "domain": "http://prod.com",
+      "wp_home": "http://prod.com",
+      "api": "https://api.com/api/endpoint"
+    }
+  }
+  
