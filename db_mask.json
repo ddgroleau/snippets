@@ -1,5 +1,6 @@
 {
     "local": {
+      "name": "local",
       "pattern": "localhost",
       "db_name": "database",
       "db_user": "dbuser",
@@ -10,6 +11,7 @@
       "api": "https://apidev.com/api/endpoint"
     },
     "dev": {
+      "name": "dev",
       "pattern": "dev.com",
       "db_name": "database",
       "db_user": "dbuser",
@@ -20,6 +22,7 @@
       "api": "https://apidev.com/api/endpoint"
     },
     "qa": {
+      "name": "qa",
       "pattern": "qa.com",
       "db_name": "database",
       "db_user": "dbuser",
@@ -30,6 +33,7 @@
       "api": "https://apiqa.com/api/endpoint"
     },
     "uat": {
+      "name": "uat",
       "pattern": "uat.com",
       "db_name": "database",
       "db_user": "dbuser",
@@ -40,6 +44,7 @@
       "api": "https://apiuat.com/api/endpoint"
     },
     "prod": {
+      "name": "prod",
       "pattern": "prod.com",
       "db_name": "database",
       "db_user": "dbuser",
