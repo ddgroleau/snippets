@@ -1,5 +1,5 @@
-# js-snippets
-Re-usable pieces of code that I built from scratch.
+# snippets
+Re-usable pieces of codeh.
 
 ## Features
 
