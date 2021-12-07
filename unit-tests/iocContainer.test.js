@@ -1,4 +1,4 @@
-import { IocContainer } from "../src/iocContainer";
+import { IocContainer } from "../iocContainer";
 import { Car, Wheel, Tire, Rotor, Rim, Caliper } from'./mockIocClasses.js' ;
 
 describe('IocContainer tests', () => {
