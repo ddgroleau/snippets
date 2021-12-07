@@ -1,5 +1,5 @@
-# snippets
-Re-usable pieces of codeh.
+# Snippets
+Re-usable pieces of code.
 
 ## Features
 
